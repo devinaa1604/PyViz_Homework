@@ -5,7 +5,7 @@
 *[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
 ## Background
-This project is for a pseudo real estate team which wants to provide customers with a broader range of portfolio optionsfor the San Francisco market. I have built a dashboard to display this. 
+This project is for a pseudo real estate team which wants to provide customers with a broader range of portfolio options for the San Francisco market. I have built a dashboard to display this. 
 
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
