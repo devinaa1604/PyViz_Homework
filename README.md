@@ -84,6 +84,7 @@ Read in neighborhood location data and built an interactive map with the average
 
 Used the Panel library to build an interactive dashboard for all of the visualizations.
 Created a new `dashboard.ipynb` for the dashboard code.
+
 Final Dashboard:
 
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
